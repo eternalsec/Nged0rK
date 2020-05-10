@@ -45,7 +45,7 @@ Only for lazy manual dorking
 
 1. Clone the repo
 ```sh
-git clone https://github.com/eternalsec/Project-Name.git
+git clone https://github.com/eternalsec/Nged0rK.git
 ```
 2 Install Pip
 ```sh
